@@ -1,0 +1,199 @@
+1
+>>>  [Device Install (Hardware initiated) - SWD\WPDBUSENUM\_??_USBSTOR#Disk&Ven_Sharkoon&Prod_Flexi-Drive_EC4&Rev_1100#AA04012900007482&0#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}]
+
+Vendor: Sharkoon
+Vendor: Sharkoon
+Product: Flexi-Drive_EC4
+Product: Flexi-Drive_EC4
+Serial: AA04012900007482&0
+Serial: AA04012900007482&0
+>>>  Section start 2021/01/19 11:16:12.248
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+2
+>>>  [Device Install (Hardware initiated) - SWD\WPDBUSENUM\_??_USBSTOR#Disk&Ven_Kingston&Prod_DataTraveler_3.0&Rev_PMAP#60A44C3FACC9B161499700B1&0#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}]
+
+Vendor: Kingston
+Vendor: Kingston
+Product: DataTraveler_3.0
+Product: DataTraveler_3.0
+Serial: 60A44C3FACC9B161499700B1&0
+Serial: 60A44C3FACC9B161499700B1&0
+>>>  Section start 2021/01/19 11:29:24.146
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+3
+>>>  [Device Install (Hardware initiated) - SWD\WPDBUSENUM\_??_USBSTOR#Disk&Ven_Kingston&Prod_HyperX_Fury_3.0&Rev_PMAP#60A44C4253CABF90AB469B94&0#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}]
+
+Vendor: Kingston
+Vendor: Kingston
+Product: HyperX_Fury_3.0
+Product: HyperX_Fury_3.0
+Serial: 60A44C4253CABF90AB469B94&0
+Serial: 60A44C4253CABF90AB469B94&0
+>>>  Section start 2021/01/19 12:16:32.524
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+4
+>>>  [Device Install (Hardware initiated) - SWD\WPDBUSENUM\_??_USBSTOR#Disk&Ven_Verbatim&Prod_STORE_N_GO&Rev_5.00#07841BA105BD&0#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}]
+
+Vendor: Verbatim
+Vendor: Verbatim
+Product: STORE_N_GO
+Product: STORE_N_GO
+Serial: 07841BA105BD&0
+Serial: 07841BA105BD&0
+>>>  Section start 2021/01/19 12:23:32.685
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+5
+>>>  [Device Install (Hardware initiated) - SWD\WPDBUSENUM\_??_USBSTOR#Disk&Ven_Generic&Prod_Flash_Disk&Rev_8.07#F003169A&0#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}]
+
+Vendor: Generic
+Vendor: Generic
+Product: Flash_Disk
+Product: Flash_Disk
+Serial: F003169A&0
+Serial: F003169A&0
+>>>  Section start 2021/01/28 09:04:55.701
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+6
+>>>  [Device Install (Hardware initiated) - SWD\WPDBUSENUM\_??_USBSTOR#Disk&Ven_JetFlash&Prod_Transcend_16GB&Rev_8.07#MDQUFZI8&0#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}]
+
+Vendor: JetFlash
+Vendor: JetFlash
+Product: Transcend_16GB
+Product: Transcend_16GB
+Serial: MDQUFZI8&0
+Serial: MDQUFZI8&0
+>>>  Section start 2021/01/28 09:28:03.925
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+7
+>>>  [Device Install (Hardware initiated) - SWD\WPDBUSENUM\_??_USBSTOR#Disk&Ven_&Prod_silicon-power&Rev_PMAP#10100173E6AA1300AFB5006A&0#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}]
+
+Vendor: 
+Vendor: 
+Product: silicon-power
+Product: silicon-power
+Serial: 10100173E6AA1300AFB5006A&0
+Serial: 10100173E6AA1300AFB5006A&0
+>>>  Section start 2021/01/28 09:52:42.518
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+8
+>>>  [Device Install (Hardware initiated) - SWD\WPDBUSENUM\_??_USBSTOR#Disk&Ven_VendorCo&Prod_ProductCode&Rev_2.00#9207003B58F96236927&0#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}]
+
+Vendor: VendorCo
+Vendor: VendorCo
+Product: ProductCode
+Product: ProductCode
+Serial: 9207003B58F96236927&0
+Serial: 9207003B58F96236927&0
+>>>  Section start 2021/01/28 10:33:09.686
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+9
+>>>  [Device Install (Hardware initiated) - SWD\WPDBUSENUM\_??_USBSTOR#Disk&Ven_&Prod_USB_DISK_3.0&Rev_PMAP#070D51B989991A36&0#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}]
+
+Vendor: 
+Vendor: 
+Product: USB_DISK_3.0
+Product: USB_DISK_3.0
+Serial: 070D51B989991A36&0
+Serial: 070D51B989991A36&0
+>>>  Section start 2021/01/28 12:32:11.080
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+10
+>>>  [Device Install (Hardware initiated) - SWD\WPDBUSENUM\_??_USBSTOR#Disk&Ven_JetFlash&Prod_TS128MJF2A&Rev_1.00#7&de55e70&0#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}]
+
+Vendor: JetFlash
+Vendor: JetFlash
+Product: TS128MJF2A
+Product: TS128MJF2A
+Serial: 7&de55e70&0
+Serial: 7&de55e70&0
+>>>  Section start 2021/03/12 10:18:37.074
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+11
+>>>  [Device Install (Hardware initiated) - SWD\WPDBUSENUM\_??_USBSTOR#Disk&Ven_JetFlash&Prod_TS128MJF2A&Rev_1.00#6&4b6cc2f&0#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}]
+
+Vendor: JetFlash
+Vendor: JetFlash
+Product: TS128MJF2A
+Product: TS128MJF2A
+Serial: 6&4b6cc2f&0
+Serial: 6&4b6cc2f&0
+>>>  Section start 2021/03/19 08:39:28.108
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+12
+>>>  [Device Install (Hardware initiated) - SWD\WPDBUSENUM\_??_SCSI#Disk&Ven_Arsenal&Prod_Virtual_#1&2afd7d61&0&000000#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}]
+
+Vendor: Arsenal
+Vendor: Arsenal
+Product: Virtual_#1&2afd7d61&0&000000#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}]
+
+Product: Virtual
+Serial: 1&2afd7d61&0&000000
+Serial: 1&2afd7d61&0&000000
+>>>  Section start 2021/03/19 09:41:46.725
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+13
+>>>  [Device Install (Hardware initiated) - SWD\WPDBUSENUM\_??_USBSTOR#Disk&Ven_Wilk&Prod_GOODRAM_4GB&Rev_PMAP#070338E8093B3F15&0#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}]
+
+Vendor: Wilk
+Vendor: Wilk
+Product: GOODRAM_4GB
+Product: GOODRAM_4GB
+Serial: 070338E8093B3F15&0
+Serial: 070338E8093B3F15&0
+>>>  Section start 2021/03/19 10:19:22.801
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+14
+>>>  [Device Install (Hardware initiated) - SWD\WPDBUSENUM\_??_USBSTOR#Disk&Ven_JetFlash&Prod_TS128MJF2A&Rev_1.00#6&2d97e591&0#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}]
+
+Vendor: JetFlash
+Vendor: JetFlash
+Product: TS128MJF2A
+Product: TS128MJF2A
+Serial: 6&2d97e591&0
+Serial: 6&2d97e591&0
+>>>  Section start 2021/03/25 19:54:07.999
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+15
+>>>  [Device Install (Hardware initiated) - SWD\WPDBUSENUM\_??_USBSTOR#Disk&Ven_ADATA&Prod_USB_Flash_Drive&Rev_1100#27A1808450880138&0#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}]
+
+Vendor: ADATA
+Vendor: ADATA
+Product: USB_Flash_Drive
+Product: USB_Flash_Drive
+Serial: 27A1808450880138&0
+Serial: 27A1808450880138&0
+>>>  Section start 2021/04/08 22:31:32.255
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JetFlash
+3451413224&0
+Transcend_16GB
